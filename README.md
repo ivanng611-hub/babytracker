@@ -1,2 +1,0 @@
-# babytracker
-Privacy Policy
